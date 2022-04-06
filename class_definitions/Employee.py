@@ -2,6 +2,7 @@
 from datetime import datetime
 
 
+
 # Employee class
 class Employee:
     def __init__(self, start_date, salary):
