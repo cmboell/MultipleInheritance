@@ -1,3 +1,12 @@
+"""
+Assignment name: Multiple Inheritance
+Program: Employee.py
+Author: Colby Boell
+Last date modified: 04/03/2022
+
+The purpose of this program is to use classes to create multiple inheritance for the manager class because
+they are a person and and employee
+"""
 from class_definitions.Employee import Employee
 from class_definitions.Person import Person
 
